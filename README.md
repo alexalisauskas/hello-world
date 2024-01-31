@@ -12,7 +12,7 @@ For most maps created **prior to 1900** check out [Rare Books and Special Collec
 You can read more about the collections at RBSC on their [Historical Map Collection Guide](https://guides.library.ubc.ca/historicalmaps). RBSC is a closed stack collection which means the materials have to be requested. You can use the map search tips below to find materials, and contact RBSC to view them.
 
 ### X̱wi7x̱wa Library
-[X̱wi7x̱wa Library[](https://xwi7xwa.library.ubc.ca/) is a centre for academic and community Indigenous scholarship at UBC whose collections and services reflect Indigenous approaches to teaching, learning, and research. There is a small number of maps located at X̱wi7x̱wa Library created from Indigenous perspectives or relevant to research on Indigenous topics, including treaty maps, Indigenous place name maps, language maps, traditional land use maps, and territory maps. You can read more about Indigenous mapping and mapping resources [X̱wi7x̱wa Library's Indigenous Mapping guide](https://guides.library.ubc.ca/indigenousmaps). Some maps relevant to Indigenous topics are also located at RBSC and Koerner Library.
+[X̱wi7x̱wa Library](https://xwi7xwa.library.ubc.ca/) is a centre for academic and community Indigenous scholarship at UBC whose collections and services reflect Indigenous approaches to teaching, learning, and research. There is a small number of maps located at X̱wi7x̱wa Library created from Indigenous perspectives or relevant to research on Indigenous topics, including treaty maps, Indigenous place name maps, language maps, traditional land use maps, and territory maps. You can read more about Indigenous mapping and mapping resources [X̱wi7x̱wa Library's Indigenous Mapping guide](https://guides.library.ubc.ca/indigenousmaps). Some maps relevant to Indigenous topics are also located at RBSC and Koerner Library.
 
 ### Koerner Map Library
 Most of the UBC Library print map collection, as well as atlases and gazetteers, can be found on Level 2 of [Walter C. Koerner Library](https://koerner.library.ubc.ca/). The print map sheets are located in labeled drawers and cabinets in call number sequence and are all available for browsing.
@@ -21,8 +21,8 @@ Most of the UBC Library print map collection, as well as atlases and gazetteers,
 If you are looking for a physical or digital map of an area, you can search for these materials under the General search tab on the [UBC Library website](https://www.library.ubc.ca/).
 
 Some searching tips:
-- use the search string maps AND [location you are searching for]. For example maps AND
-  - 
+- use the search string maps AND place name. For example maps AND singapore
+-   if
 
 Some of the maps in the collection are not in the UBC Library Online Catalogue. This part of the collection can be searched in the wooden card catalogues on Level 2 of Koerner Library, either by **location** (Area - Subject) or by **subject** (Subject - Area).
 
