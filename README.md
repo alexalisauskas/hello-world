@@ -21,8 +21,14 @@ Most of the UBC Library print map collection, as well as atlases and gazetteers,
 If you are looking for a physical or digital map of an area, you can search for these materials under the General search tab on the [UBC Library website](https://www.library.ubc.ca/).
 
 Some searching tips:
-- use the search string maps AND place name. For example maps AND singapore
--   if
+- Use the search string {maps AND place name}. For example you could search maps AND singapore
+  - If you are having trouble finding maps of the place you are searching, try broader or narrower place names like cities, provinces, regions, or countries
+
+- On the left menu, filter **Content** to "maps" to limit your results to this format. Your results should include digital as well as physical maps
+
+<img width="1296" alt="image" src="https://github.com/alexalisauskas/hello-world/assets/140117758/f1f5de40-bbbc-4975-acab-16c63b375114">
+
+- Use the **Library Location** filters to limit your results to physical maps. Koerner holds most maps, however for earlier maps you may have to look at RBSC.
 
 Some of the maps in the collection are not in the UBC Library Online Catalogue. This part of the collection can be searched in the wooden card catalogues on Level 2 of Koerner Library, either by **location** (Area - Subject) or by **subject** (Subject - Area).
 
