@@ -1,9 +1,8 @@
 # Historical Maps at UBC Library
 
-
 ## Map Collections at UBC Library
 
-Several libraries at UBC hold map collections, including Koerner Library (the main map library), Rare Books and Special Collections, UBC Archives, Xwi7xwa Library, and UBC Okanagan. At each of these branches there are collections, staff, and facilities available to consult for you work.
+Several libraries at UBC hold map collections, including Koerner Library (the main map library), Rare Books and Special Collections, UBC Archives, Xwi7xwa Library, and UBC Okanagan. At each of these branches there are collections, staff, and facilities available to consult for you work. The collection totals ~800,000 paper map sheets, as well as digital and online maps.
 
 ### Rare Books and Special Collections
 For most maps created **prior to 1900** check out [Rare Books and Special Collections at UBC Library](https://rbsc.library.ubc.ca/). Their collection of cartographic archives and historical maps is especially strong in pre-1800 world/hemispheres, pre-1900 North America and the Pacific Rim, the Canadian Arctic, fire insurance plans of B.C. towns and cities, and [Tokugawa / Edo Period Japan](https://open.library.ubc.ca/collections/tokugawa).
@@ -11,14 +10,12 @@ For most maps created **prior to 1900** check out [Rare Books and Special Collec
 You can read more about the collections at RBSC on their [Historical Map Collection Guide](https://guides.library.ubc.ca/historicalmaps). RBSC is a closed stack collection and non-circulating collection, which means the materials have to be requested. You can use the map search tips below to find materials, and contact RBSC to view them.
 
 ### X̱wi7x̱wa Library
-[X̱wi7x̱wa Library[](https://xwi7xwa.library.ubc.ca/) is a centre for academic and community Indigenous scholarship at UBC whose collections and services reflect Indigenous approaches to teaching, learning, and research. There is a small number of maps located at X̱wi7x̱wa Library created from Indigenous perspectives or relevant to research on Indigenous topics, including treaty maps, Indigenous place name maps,  language maps, traditional land use maps, and territory maps. You can read more about Indigenous mapping and mapping resources at X̱wi7x̱wa Library on their [Indigenous Mapping guide](https://guides.library.ubc.ca/indigenousmaps).
+[X̱wi7x̱wa Library[](https://xwi7xwa.library.ubc.ca/) is a centre for academic and community Indigenous scholarship at UBC whose collections and services reflect Indigenous approaches to teaching, learning, and research. There is a small number of maps located at X̱wi7x̱wa Library created from Indigenous perspectives or relevant to research on Indigenous topics, including treaty maps, Indigenous place name maps, language maps, traditional land use maps, and territory maps. You can read more about Indigenous mapping and mapping resources [wi7x̱wa Library's Indigenous Mapping guide](https://guides.library.ubc.ca/indigenousmaps). Some maps relevant to Indigenous topics are also located at RBSC and Koerner Library.
 
 ### Koerner Map Library
+Most of the UBC Library print map collection, as well as atlases and gazetteers, can be found on Level 2 of [Walter C. Koerner Library](https://koerner.library.ubc.ca/). The print map sheets are located in labeled drawers and cabinets in call number sequence and are all available for browsing.
 
-~800,000 paper map sheets as well.
-
-
-###Map Collection at Koerner Library
+### Map Collection at Koerner Library
 
 
 
