@@ -22,23 +22,27 @@ If you are looking for a physical or digital map of an area, you can search for 
 
 Some searching tips:
 - Use the search string {maps AND place name}. For example you could search maps AND singapore
-  - If you are having trouble finding maps of the place you are searching, try broader or narrower place names like cities, provinces, regions, or countries
+  - If you are having trouble finding maps of the place you are searching, try broader or narrower place names like cities, counties, provinces, regions, or countries
 
 - On the left menu, filter **Content** to "maps" to limit your results to this format. Your results should include digital as well as physical maps
 
 <img width="1296" alt="image" src="https://github.com/alexalisauskas/hello-world/assets/140117758/f1f5de40-bbbc-4975-acab-16c63b375114">
 
+
 - Use the **Library Location** filters to limit your results to physical maps. Koerner holds most maps, however for earlier maps you may have to look at RBSC.
+
+<img width="1296" alt="image" src="https://github.com/alexalisauskas/hello-world/assets/140117758/b74d4576-daf7-4cf4-b1e4-ec995d7230e5">
+
 
 Some of the maps in the collection are not in the UBC Library Online Catalogue. This part of the collection can be searched in the wooden card catalogues on Level 2 of Koerner Library, either by **location** (Area - Subject) or by **subject** (Subject - Area).
 
 ## Finding and Browsing Maps at Koerner Library
 
-To find a map at Koerner Library from your library catalogue searching, make note of the **call number** and **location** of the item.
+To find a map at Koerner Library from your library website searching, make note of the **call number** and **location** of the item.
 
-The Koerner Library map collection uses two different call number systems. The collection was originally catalogued using the Boggs and Lewis classification system (numeric) but is now being converted to use the Library of Congress system (alpha-numeric) to match the rest of UBC Library. Each call number systems groups maps together by geographic location.
+The Koerner Library map collection uses two different call number systems. The collection was originally catalogued using the Boggs and Lewis classification system (numeric) but is now being converted to use the Library of Congress system (alpha-numeric) to match the rest of UBC Library. Each call number systems groups maps together by geographic location, and cabinets are labelled with these call numbers as well as place names to help you browse.
 
-Maps at Koerner Library are organized into several different cabinet "locations." If you want to browse maps of Africa, for instance, you may want to look in each of 4 locations to be comprehensive: Koerner reference thematic, Koerner storage thematic, Koerner reference folded maps, Koerner storage folded maps. The map below shows the different cabinet locations.
+Maps at Koerner Library are organized into several different cabinet "locations." If you want to browse maps of Singapore, for instance, you may want to look in each of 4 locations to be comprehensive: Koerner reference thematic, Koerner storage thematic, Koerner reference folded maps, Koerner storage folded maps. The map below shows the different cabinet locations.
 
 <img width="508" alt="image" src="https://github.com/alexalisauskas/hello-world/assets/140117758/06aca501-3d09-4413-8e97-060b996cca86">
 
@@ -50,6 +54,14 @@ To ensure that scans are allowed to be used further in publication, research, o
 The scanner is available to use on an appointment basis. Please email the library for more information or to schedule an appointment at <library.gis@ubc.ca>.
 Materials from RBSC may also be scanned at RBSC’s discretion, and likely at a cost. Scans larger than 11″ x 17″ need to be referred to other UBC Library departments where different fees may apply. A cost estimate can be provided before proceeding. Contact <rare.books@ubc.ca> for more information.
 
+## UBC Library Online Map Collections
 
+The UBC Digitization Centre has digitized a number of UBC Library's collections that include maps and atlases. These digital collections are part of [UBC's Open Collections](https://open.library.ubc.ca/) and are freely accessible by anyone.
 
+To browse all maps in Open Collections:
+- Click "advanced search" below the search bar
+- Click "add limits", then click the "genre" dropdown menu, and select "maps"
 
+<img width="1296" alt="image" src="https://github.com/alexalisauskas/hello-world/assets/140117758/20977c77-ed71-4359-af78-3e396e88fdfe">
+
+## Activity
