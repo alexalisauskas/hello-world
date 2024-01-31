@@ -67,13 +67,18 @@ To browse all maps in Open Collections:
 You can also browse the following map collections on UBC Open Collections
 
 [**Andrew McCormick Maps and Prints**](https://open.library.ubc.ca/collections/mccormick)
+
 A diverse collection of digitized historical maps and atlases, covering the period from 1503 - 1910.
 
 [**GVRD Planning Department Land Use Maps**](https://open.library.ubc.ca/collections/gvrdmaps)
+
 Collection of detailed Vancouver land use maps produced by the Greater Vancouver Regional District (now Metro Vancouver). It includes maps from 1965-1983.
 
 [**Japanese Maps of the Tokugawa Era**](https://open.library.ubc.ca/collections/tokugawa)
+
 One of the world's largest collections of maps and guidebooks of the Japanese Tokugawa period, ca. 1600-1867. The collection varies in both format and size: items range from small single-sheet maps to more than thirty square feet, and also include a ceramic plate, a woodblock, and maps in scroll format.
+
+*Note that the Open Collections viewer uses IIIF for image delivery, meaning that these maps should be compatible with web georeferencing tools that use IIIF urls.
 
 ## Activity
 
