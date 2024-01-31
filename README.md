@@ -2,7 +2,9 @@
 
 ## Map Collections at UBC Library
 
-Several libraries at UBC hold map collections, including Koerner Library (the main map library), Rare Books and Special Collections, UBC Archives, Xwi7xwa Library, and UBC Okanagan. Each map collection is located based on the topic of the map and its relation to the other collections held in the library. The collection totals ~800,000 paper map sheets, as several digital map collections. Map collection materials are for library use only and cannot be taken out of the library.
+Several libraries at UBC hold map collections, including Koerner Library (the main map library), Rare Books and Special Collections, UBC Archives, Xwi7xwa Library, and UBC Okanagan. Each map collection is located based on the topic of the map and its relation to the other collections held in the library. The collection totals ~800,000 paper map sheets, as several digital map collections. For more detailed information read the [UBC Library Maps and Atlases Guide ](https://guides.library.ubc.ca/maps-atlases)
+
+Map collection materials are for library use only and cannot be taken out of the library, however, if you want to use a map for a georeferencing project you may scan it. Read more about scanning services at UBC Library below.
 
 ### Rare Books and Special Collections
 For most maps created **prior to 1900** check out [Rare Books and Special Collections at UBC Library](https://rbsc.library.ubc.ca/). Their collection of cartographic archives and historical maps is especially strong in pre-1800 world/hemispheres, pre-1900 North America and the Pacific Rim, the Canadian Arctic, fire insurance plans of B.C. towns and cities, and [Tokugawa / Edo Period Japan](https://open.library.ubc.ca/collections/tokugawa).
@@ -20,19 +22,10 @@ Most of the UBC Library print map collection, as well as atlases and gazetteers,
 ## Finding and Browsing Maps at Koerner Library
 
 
+Maps at Koerner Library are organized into several different "locations." The map below shows the different cabinet locations where you should search.
+<img width="508" alt="image" src="https://github.com/alexalisauskas/hello-world/assets/140117758/06aca501-3d09-4413-8e97-060b996cca86">
 
-There are four Locations of maps in Koerner
-
-Reference Thematic
-Storage Thematic
-Reference Folded
-Storage Folded
-
-Japanese Maps
-Atlases
-
-
-
+Also note that there are two different call number systems at each of these locations. 
 
 ## Scanning Maps
 
